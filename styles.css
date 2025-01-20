@@ -127,6 +127,12 @@ body {
     margin-bottom: 20px;
 }
 
+.box h3 {
+    color: rgba(115, 147, 179);
+    font-size: 2rem;
+    margin-bottom: 20px;
+}
+
 .box ul {
     list-style-type: none;
 }
